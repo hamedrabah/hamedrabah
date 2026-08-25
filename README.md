@@ -1,9 +1,9 @@
 # Hamed Rabah
 
-Building developer tools and AI infrastructure at Microsoft. Based in San Francisco.
+Early-stage AI partnerships at Microsoft. Based in San Francisco.
 
-I like systems that make difficult infrastructure ideas tangible: agent runtimes,
-developer tooling, evaluation, distributed systems, and the interfaces between them.
+Outside work, I contribute to open-source projects across agent runtimes,
+developer tooling, evaluation, and distributed systems.
 
 ### Current open-source work
 
