@@ -8,6 +8,7 @@ AI startup partnerships at Microsoft. I work at the intersection of AI infrastru
 [![Secret scan](https://github.com/hamedrabah/infra-starter-pack/actions/workflows/security.yml/badge.svg)](https://github.com/hamedrabah/infra-starter-pack/actions/workflows/security.yml)
 [![Replay QA self-test](https://github.com/hamedrabah/infra-starter-pack/actions/workflows/replay-self-test.yml/badge.svg)](https://github.com/hamedrabah/infra-starter-pack/actions/workflows/replay-self-test.yml)
 [![Pages](https://github.com/hamedrabah/infra-starter-pack/actions/workflows/pages.yml/badge.svg)](https://hamedrabah.github.io/infra-starter-pack/)
+[![Release](https://github.com/hamedrabah/infra-starter-pack/actions/workflows/release.yml/badge.svg)](https://github.com/hamedrabah/infra-starter-pack/actions/workflows/release.yml)
 
 The [Infra Starter Pack GitHub Action](https://github.com/marketplace/actions/infra-starter-pack) is published on GitHub Marketplace, with its CI, security scan, hosted showcase, and Replay QA checks linked above.
 
