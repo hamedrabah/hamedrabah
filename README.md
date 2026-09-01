@@ -2,7 +2,7 @@
 
 I work in growth partnerships for AI startups. I spend my time with founders, product teams, and developer communities figuring out where a technical product fits, how it gets adopted, and what a useful partnership looks like.
 
-I keep an active GitHub because it is the fastest way to stay close to the product. I use it for small tools, integration experiments, documentation, and the occasional upstream fix.
+I keep GitHub close at hand because it is the fastest way to stay close to the product. I use it for small tools, integration experiments, documentation, and the occasional upstream fix.
 
 ## Current interests
 
