@@ -8,7 +8,7 @@ I keep GitHub close at hand because it is the fastest way to stay close to the p
 
 AI infrastructure · developer platforms · startup ecosystems · product partnerships
 
-## One thing I’m building
+## One thing I'm building
 
 [Infra Starter Pack](https://github.com/hamedrabah/infra-starter-pack) is a small CLI and GitHub Action that turns repository evidence into documentation, CI checks, security checks, and runtime QA.
 
