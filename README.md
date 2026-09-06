@@ -10,6 +10,9 @@ I work on AI startup partnerships at Microsoft in San Francisco.
 
 ## Selected merged contributions
 
+[Read the fix notes](fix-notes.md): what broke, what changed, and how it was checked.
+
+- [Bento Slides](https://github.com/nyblnet/bento/pull/366): stop objects following the cursor after a fast click.
 - [Spec Kit](https://github.com/github/spec-kit/pull/4359): read feature metadata as UTF-8 in Windows PowerShell.
 - [three.js](https://github.com/mrdoob/three.js/pull/34390): avoid vertex-hash overflow at zero tolerance.
 - [Braintrust Java SDK](https://github.com/braintrustdata/braintrust-sdk-java/pull/169): preserve audio transcription output.
