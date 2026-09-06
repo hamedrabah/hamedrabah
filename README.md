@@ -2,14 +2,6 @@
 
 I work on AI startup partnerships at Microsoft in San Francisco.
 
-## Building
-
-[Infra Starter Pack](https://github.com/hamedrabah/infra-starter-pack) scans a repository and produces an infrastructure report from its files and package metadata. It also generates Mintlify documentation and connects running web apps to Replay QA.
-
-[![Infra Starter Pack OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/hamedrabah/infra-starter-pack/badge)](https://scorecard.dev/viewer/?uri=github.com/hamedrabah/infra-starter-pack)
-
-[See a sample report](https://github.com/hamedrabah/infra-starter-pack/blob/main/examples/tiny-api-report.md) · [Use the GitHub Action](https://github.com/marketplace/actions/infra-starter-pack)
-
 ## Selected merged contributions
 
 [Read the fix notes](fix-notes.md): what broke, what changed, and how it was checked.
